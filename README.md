@@ -19,13 +19,16 @@ This project involves the analysis study of results for several promising anti-c
 As a senior data analyst at the company, you've been given access to the complete data from their most recent animal study. In this study, 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. You have been tasked by the executive team to generate all of the tables and figures needed for the technical report of the study. The executive team also has asked for a top-level summary of the study resulte*  
 
 ## Screenshots
-Some examples of the output tables generated from the Pymaceuticals analysis:  
+Some examples of the output tables and charts generated from the Pymaceuticals analysis:  
   
-* The School Summmary Analysis:    
-![Education](Pymaceuticals/Resources/school_summary.PNG)  
+* The mouse count by time point bar chart:    
+![Education](Resources/bar1.PNG)  
 
-* The Breakdown of Math scores by school grade  
-![Education](Pymaceuticals/Resources/math_by_grade.PNG)  
+* The 'promising drugs' quartiles table  
+![Education](Pymaceuticals/Resources/table1.PNG)  
+
+* The linear regression model for mouse weight and tumor volume  
+![Education](Pymaceuticals/Resources/regression1.PNG)
 
 ## Setup
 * Open the Pymaceuticals directory
