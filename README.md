@@ -25,15 +25,15 @@ Some examples of the output tables and charts generated from the Pymaceuticals a
 ![Education](Resources/bar1.PNG)  
 
 * The 'promising drugs' quartiles table  
-![Education](Pymaceuticals/Resources/table1.PNG)  
+![Education](Resources/table1.PNG)  
 
 * The linear regression model for mouse weight and tumor volume  
-![Education](Pymaceuticals/Resources/regression1.PNG)
+![Education](Resources/regression1.PNG)
 
 ## Setup
 * Open the Pymaceuticals directory
-* This contains the Pymaceuticals.ipynb which can be opened as a Jupyter Notebook
-* A resources folder is also present which contains the necessary base data
+* This contains the pymaceuticals.ipynb which can be opened as a Jupyter Notebook
+* A data folder is also present which contains the necessary base data
 * Once Pymaceuticals.ipynb is loaded as a Jupyter Notebook, Select *Restart & Run All* from Kernel menu 
 * The Notebook can now be navigated using the links to observe the data analysis
 
