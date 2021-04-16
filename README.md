@@ -52,3 +52,6 @@ Project is: <style>p{color:Green !important;}
 
 ## Contact
 Created by Dale Currigan - <dcurrigan@gmail.com>
+````diff
++ Completed
+- Red Text
