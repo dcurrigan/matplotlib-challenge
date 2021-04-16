@@ -19,23 +19,23 @@ This project involves the analysis study of results for several promising anti-c
 As a senior data analyst at the company, you've been given access to the complete data from their most recent animal study. In this study, 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. You have been tasked by the executive team to generate all of the tables and figures needed for the technical report of the study. The executive team also has asked for a top-level summary of the study resulte*  
 
 ## Screenshots
-Some examples of the output tables generated from the PyCitySchools analysis:  
+Some examples of the output tables generated from the Pymaceuticals analysis:  
   
 * The School Summmary Analysis:    
-![Education](PyCitySchools/Resources/school_summary.PNG)  
+![Education](Pymaceuticals/Resources/school_summary.PNG)  
 
 * The Breakdown of Math scores by school grade  
-![Education](PyCitySchools/Resources/math_by_grade.PNG)  
+![Education](Pymaceuticals/Resources/math_by_grade.PNG)  
 
 ## Setup
-* Open the PyCitySchools directory
-* This contains the PyCitySchools.ipynb which can be opened as a Jupyter Notebook
+* Open the Pymaceuticals directory
+* This contains the Pymaceuticals.ipynb which can be opened as a Jupyter Notebook
 * A resources folder is also present which contains the necessary base data
-* Once PyCitySchools.ipynb is loaded as a Jupyter Notebook, Select *Restart & Run All* from Kernel menu 
+* Once Pymaceuticals.ipynb is loaded as a Jupyter Notebook, Select *Restart & Run All* from Kernel menu 
 * The Notebook can now be navigated using the links to observe the data analysis
 
 ## Features
-The following analyses are included in PyCitySchools:  
+The following analyses are included in Pymaceuticals:  
   
 * Data Cleaning
 * Summary Statistics
@@ -47,7 +47,7 @@ The following analyses are included in PyCitySchools:
 * Correlation and Linear Regression - For average tumor volume vs mouse weight
 
 ## Status
-Project is: <span style="color:green">COMPLETED</span>.
+Project is: <span style="color:green">*COMPLETED*</span>.
 
 ## Contact
 Created by Dale Currigan - <dcurrigan@gmail.com>
