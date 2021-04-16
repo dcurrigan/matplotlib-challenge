@@ -31,16 +31,15 @@ Some examples of the output tables and charts generated from the Pymaceuticals a
 ![Education](Resources/regression1.PNG)
 
 ## Setup
-* Open the Pymaceuticals directory
-* This contains the pymaceuticals.ipynb which can be opened as a Jupyter Notebook
-* A data folder is also present which contains the necessary base data
-* Once Pymaceuticals.ipynb is loaded as a Jupyter Notebook, Select *Restart & Run All* from Kernel menu 
+* This Github repository contains contains pymaceuticals.ipynb which can be opened as a Jupyter Notebook
+* A data folder is also present which contains the necessary study data
+* Once pymaceuticals.ipynb is loaded as a Jupyter Notebook, Select *Restart & Run All* from Kernel menu 
 * The Notebook can now be navigated using the links to observe the data analysis
 
 ## Features
 The following analyses are included in Pymaceuticals:  
   
-* Data Cleaning
+* Exploratory Data Analysis and Data Cleaning
 * Summary Statistics
 * Quartiles and Outliers
 * Bar Charts - Mouse counts through the study
