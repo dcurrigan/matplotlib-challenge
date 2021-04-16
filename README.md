@@ -47,7 +47,8 @@ The following analyses are included in Pymaceuticals:
 * Correlation and Linear Regression - For average tumor volume vs mouse weight
 
 ## Status
-Project is: <span style="color:green">*COMPLETED*</span>.
+Project is: <style>p{color:Green !important;}
+</style>
 
 ## Contact
 Created by Dale Currigan - <dcurrigan@gmail.com>
