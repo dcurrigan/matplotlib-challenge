@@ -2,7 +2,7 @@
 > Created by Dale Currigan, April 2021  
 > Week five Matplotlib Homework - The Power of Plots
 
-![Research](Resources/laboratory.jpg)
+![Research](Resources/Laboratory.jpg)
 
 ## Table of contents
 * [General info](#general-info)
